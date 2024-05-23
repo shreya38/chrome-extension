@@ -1,0 +1,36 @@
+
+
+
+.popup-content {
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+#getTitleBtn {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+
+#getTitleBtn:hover {
+    background-color: #005eaf;
+}
+
+
+#titleDisplay {
+    font-size: 14px;
+    margin-top: 10px;
+}
